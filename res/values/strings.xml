@@ -10080,7 +10080,4 @@
 
     <!-- Title for Connected device shortcut [CHAR LIMIT=30] -->
     <string name="devices_title">Devices</string>
-
-    <!-- Pixel color on sim card -->
-    <string name="pixel_sim_color">Pixel</string>
 </resources>
