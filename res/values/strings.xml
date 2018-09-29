@@ -10080,4 +10080,8 @@
 
     <!-- Title for Connected device shortcut [CHAR LIMIT=30] -->
     <string name="devices_title">Devices</string>
+         <!-- Maintainer -->
+    <string name="maintainer_title">Device Maintainer</string>
+    <string name="device_maintainer">IPSBHANGU(ODONORS)</string>
+     <string name="device_summary">Unknown</string>
 </resources>
